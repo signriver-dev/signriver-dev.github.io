@@ -54,8 +54,8 @@
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/sign-river/sign-river.github.io.git
-cd sign-river.github.io
+git clone https://github.com/signriver-dev/signriver-dev.github.io.git
+cd signriver-dev.github.io
 ```
 
 1. **启动本地服务器**

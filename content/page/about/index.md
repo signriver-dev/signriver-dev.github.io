@@ -31,7 +31,7 @@ comments: false
 
 ### 🔗 找到我
 
-- **GitHub**: [@sign-river](https://github.com/sign-river) - 查看我的开源项目
+- **GitHub**: [@signriver-dev](https://github.com/signriver-dev) - 查看我的开源项目
 - **Bilibili**: [我的主页](https://space.bilibili.com/504574253) - 技术视频分享
 
 ### 📝 版权说明

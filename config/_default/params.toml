@@ -67,7 +67,7 @@ src = "img/avatar.webp"  # 使用 WebP 格式，加载更快（从 6MB 优化到
 ## Social Links
 [[sociallinks]]
 name = "GitHub"
-url = "https://github.com/sign-river"
+url = "https://github.com/signriver-dev"
 
 [[sociallinks]]
 name = "Bilibili"
@@ -181,10 +181,10 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-    repo = "sign-river/sign-river.github.io"
-    repoID = "R_kgDOQv6PXw"
+    repo = "signriver-dev/signriver-dev.github.io"
+    repoID = "R_kgDOVpwZrg"
     category = "Announcements"
-    categoryID = "DIC_kwDOQv6PX84C0Twp"
+    categoryID = "DIC_kwDOVpwZrs4DK1Yu"
     mapping = "pathname"
     reactionsEnabled = 1
     emitMetadata = 0
