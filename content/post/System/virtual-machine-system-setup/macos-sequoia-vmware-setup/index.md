@@ -38,8 +38,7 @@ D:\vmware\macos-vm
 
 ## 二、下载并安装 VMware Workstation Pro
 
-可以从 Broadcom Support Portal 下载，也可以使用我保存的 17.6.4 安装包：
-https://github.com/sign-river/File_warehouse/releases/download/VMware/VMware-workstation-full-17.6.4-24832109.exe
+安装包统一从 Broadcom 支持门户获取，下面按步骤操作。
 
 打开 [Broadcom 支持门户](https://support.broadcom.com/) 并注册账号。
 

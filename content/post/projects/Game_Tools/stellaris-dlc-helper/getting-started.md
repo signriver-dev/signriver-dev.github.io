@@ -9,13 +9,13 @@ toc: true
 
 ## 1. 下载并解压
 
-从 [GitHub Releases](https://github.com/sign-river/Stellaris-DLC-Helper/releases/latest) 下载最新版本，解压到便于访问的位置。
+从 [GitHub Releases](https://github.com/Hendersonm681963741/Stellaris-DLC-Helper/releases/latest) 下载最新版本的压缩包（当前为 `Stellaris-DLC-Helper-v1.0.10.zip`），解压到便于访问的位置。
 
 <a href="/p/stellaris-dlc-helper/images/2026-08-28-02-45-18.png" target="_blank"> <img src="/p/stellaris-dlc-helper/images/2026-08-28-02-45-18.png" alt="image" style="max-width: 100%; width: 1000px;"/> </a>
 
 ## 2. 首次运行
 
-双击 `Stellaris_DLC_Helper.exe` 启动程序。首次打开时，程序会检查更新、显示公告，并尝试自动识别游戏安装目录。
+双击 `Stellaris-DLC-Helper.exe` 启动程序。首次打开时，程序会检查更新、显示公告，并尝试自动识别游戏安装目录。
 
 <a href="/p/stellaris-dlc-helper/images/2026-08-28-02-46-03.png" target="_blank"> <img src="/p/stellaris-dlc-helper/images/2026-08-28-02-46-03.png" alt="image" style="max-width: 100%; width: 1000px;"/> </a>
 

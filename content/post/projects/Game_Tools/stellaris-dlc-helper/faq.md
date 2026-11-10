@@ -29,6 +29,6 @@ toc: true
 
 <a href="/p/stellaris-dlc-helper/images/2026-08-28-03-17-09.png" target="_blank"> <img src="/p/stellaris-dlc-helper/images/2026-08-28-03-17-09.png" alt="image" style="max-width: 70%; width: 1000px;"/> </a>
 
-## 4. 需要更多帮助
+## 4. 反馈问题
 
-仍无法解决时，可在 [GitHub Issues](https://github.com/sign-river/Stellaris-DLC-Helper/issues) 提交问题。请尽量附上可复现的操作、程序版本和相关日志。
+仍无法解决时，请先整理可复现的操作步骤、程序版本和相关日志，再一并反馈。
