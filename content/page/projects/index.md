@@ -15,7 +15,6 @@ projects:
   - title: Stellaris DLC Helper
     description: 🌟 群星 (Stellaris) DLC 一键解锁工具 - 云端下载 | 智能缓存 | 操作可还原
     website: /p/stellaris-dlc-helper/getting-started/
-    repo: https://github.com/sign-river/Stellaris-DLC-Helper
     tags:
       - Python
       - 游戏工具
@@ -25,7 +24,6 @@ projects:
   - title: SignRiver DLC Hub
     description: 多游戏 DLC 一键解锁工具，支持 Windows、SteamOS 与 macOS。
     website: /p/signriver-dlc-hub/getting-started/
-    repo: https://github.com/sign-river/SignRiver-DLC-Hub
     tags:
       - Stellaris
       - 游戏工具
