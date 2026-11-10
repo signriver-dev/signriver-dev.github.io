@@ -191,6 +191,7 @@ siteName = ""
     lightTheme = "light"
     darkTheme = "dark"
     lazyLoading = false
+    lang = "zh-CN"
 
 [comments.gitalk]
 owner = ""

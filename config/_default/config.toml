@@ -1,4 +1,4 @@
-# Change baseurl before deploy
+# 本地预览用的生产域名；GitHub Actions 部署时会用 Pages 输出的 base_url 覆盖它
 baseurl = "https://ysy.fan/"
 languageCode = "zh-cn"
 title = "YSY的博客"
